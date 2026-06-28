@@ -1,27 +1,132 @@
-# 💫 About Me:
-I am currently working as a Software Engineer at Tangram Tech Solutions LTD. My educational background is in Computer Science & Engineering. Currently, I am acquiring knowledge about the Oracle Netsuite system and gaining experience in implementing,developing Netsuite. I possess the ability to work both independently and as a valuable team member.<br><br>During my university period, I have completed numerous projects using Java Swing and JSP-Servlet. Currently, I am expanding my knowledge and working with Spring Boot and the MVC pattern architecture. Recently, I have successfully completed a project using Spring Boot.
+<div align="center">
 
+```
+ ███╗   ██╗███████╗████████╗███████╗██╗   ██╗██╗████████╗███████╗
+ ████╗  ██║██╔════╝╚══██╔══╝██╔════╝██║   ██║██║╚══██╔══╝██╔════╝
+ ██╔██╗ ██║█████╗     ██║   ███████╗██║   ██║██║   ██║   █████╗  
+ ██║╚██╗██║██╔══╝     ██║   ╚════██║██║   ██║██║   ██║   ██╔══╝  
+ ██║ ╚████║███████╗   ██║   ███████║╚██████╔╝██║   ██║   ███████╗
+ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝   ╚═╝   ╚══════╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/azizulhakimofficial) 
+### Oracle NetSuite Developer & ERP Consultant
+**Building enterprise systems that actually work.**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AzizulHakimOfficial&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AzizulHakimOfficial&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizulHakimOfficial&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdazizulhakim.official.cse@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AzizulHakimOfficial&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AzizulHakimOfficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AzizulHakimOfficial&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **NetSuite Developer & ERP Consultant** based in Bangladesh, currently at **Solutions Partners Ltd.** I specialize in implementing, customizing, and optimizing Oracle NetSuite ERP and Salesforce CRM for businesses across industries — from real estate to travel tech to venture firms.
+
+I bridge the gap between business requirements and technical solutions: whether that's writing SuiteScript, building workflows, or training teams to actually use the system they just adopted.
+
+---
+
+## 🏗️ ERP Implementations
+
+Projects I've led or contributed to across multiple firms:
+
+| # | Platform | Scope |
+|---|----------|-------|
+| 01 | Oracle NetSuite | Venture capital firm — Full ERP Implementation |
+| 02 | Oracle NetSuite | Travel tech company — Full ERP Implementation |
+| 03 | Oracle NetSuite | Real estate company — Full ERP Implementation |
+| 04 | Oracle NetSuite | Global LLC (US) — Full ERP Implementation |
+| 05 | NetSuite + Salesforce | Internal company-wide Implementation |
+| 06 | Salesforce CRM | Internal CRM Implementation |
+
+---
+
+## 🛠️ Tech Stack
+
+**ERP & CRM**
+
+![NetSuite](https://img.shields.io/badge/Oracle_NetSuite-E51937?style=flat-square&logo=oracle&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![SuiteScript](https://img.shields.io/badge/SuiteScript-2.x-F80000?style=flat-square)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Web & Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🎓 Certifications
+
+<table>
+<tr>
+<td>
+
+**🔶 Oracle NetSuite Certified SuiteFoundation Specialist**
+`Issued Sep 2025`
+> Setup & Administration · UI · Standard Process Flows · SuiteAnalytics · Data Security
+
+</td>
+<td>
+
+**🔶 SuiteLife: Demo & Delivery**
+`Issued Sep 2025`
+> Align Demo · SuiteSuccess · Faster Implementation · Project Delivery
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🔵 Salesforce Certified Associate**
+`Issued May 2025`
+> Salesforce Ecosystem · Data Model · Reports & Dashboards · Navigation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience Timeline
+
+```
+2025 Jan → Present   Solutions Partners Ltd.      NetSuite Developer (Full-time)
+2025 Oct → Dec       Zaimah Technologies           NetSuite Specialist (Part-time, Remote)
+2025 Oct → Dec       Tangram Tech Solutions        Software Engineer (Full-time)
+2023 May → Jun       Tangram Tech Solutions        Intern
+```
+
+---
+
+## 🎯 What I Do
+
+```javascript
+const azizul = {
+  role:        "NetSuite Developer & ERP Consultant",
+  platforms:   ["Oracle NetSuite", "Salesforce CRM"],
+  expertise:   ["SuiteScript", "Workflows", "SuiteBundle", "SuiteAnalytics",
+                 "P2P", "O2C", "R2R", "SuiteBilling", "Manufacturing"],
+  currentFocus: "Delivering tailored ERP solutions for enterprise clients",
+  openTo:      ["NetSuite projects", "ERP consulting", "SuiteApp development"]
+};
+```
+
+<div align="center">
+
+*"Good ERP implementation isn't about the software — it's about understanding the business."*
+
+📍 Bangladesh &nbsp;|&nbsp; 📞 +88 01858831773 &nbsp;|&nbsp; ✉️ mdazizulhakim.official.cse@gmail.com
+
+</div>
